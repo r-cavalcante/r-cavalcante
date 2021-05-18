@@ -1,11 +1,11 @@
-# Hey Dude 🖖
+# Hey Dude, I'm Robson Cavalcante 🖖
 
 ### 👨‍💻 Everything is interesting, if you look enough.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=r-cavalcante&show_icons=true&theme=darcula) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r-cavalcante&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=r-cavalcante&show_icons=true&theme=darcula)            						 
 
 
+#### Some things about me 👇
 - 👋 Hi, I’m @r-cavalcante!
 - 👀 I’m interested in learn new languages; ;)
 - 🌱 I’m currently learning Javascript and Flutter;
