@@ -18,7 +18,7 @@
 and I am currently in the information system graduation.
  
 
-### <center>Find me here too 👀</center>
+<center>Find me here too 👀</center>
 <details align="center">
         <!-- Gmail -->
         <a href="mailto:robsoncavalcante162@gmail.com" target="_blank"><img alt="Gmail"
@@ -39,4 +39,3 @@ and I am currently in the information system graduation.
         </a>
     </p>
 </details>
-
