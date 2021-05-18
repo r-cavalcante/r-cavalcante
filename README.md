@@ -2,7 +2,11 @@
 
 ### 👨‍💻 Everything is interesting, if you look enough!
 
-    
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=r-cavalcante&show_icons=true&theme=default)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r-cavalcante&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)  
+
+
+
+
 #### Some things about me 👇
 - 👋 Hi, I’m @r-cavalcante!
 - 👀 I’m interested in learn new languages; ;)
@@ -12,14 +16,9 @@
 - 💼 I currently work as controller of the prefecture of my city. But I already worked in the logistics of a sugar cane plant;
 - 🎓 I have a degree in administration with an emphasis on logistics. I have a postgraduate degree in project management,
 and I am currently in the information system graduation.
+ 
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=r-cavalcante&show_icons=true&theme=darcula) <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="250">
- </abc>
-</h2> 
-
-### Find me here too 👇
+### <center>Find me here too 👀
 <details align="center">
         <!-- Gmail -->
         <a href="mailto:robsoncavalcante162@gmail.com" target="_blank"><img alt="Gmail"
@@ -40,3 +39,4 @@ and I am currently in the information system graduation.
         </a>
     </p>
 </details>
+
