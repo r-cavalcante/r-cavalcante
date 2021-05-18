@@ -1,26 +1,24 @@
 <h1 align = "center"> Olá I'm, sou Robson Cavalcante </h1>
 <h3 align = "center"> Um apaixonado desenvolvedor front-end do Brasil </h3>
 
-<p align = "left"> <img src = "https://komarev.com/ghpvc/?username=r-cavalcante&label=Profile%20views&color=0e75b6&style=flat" alt = "r-cavalcante" /> </p>
+<p align = "left"> <a href = "https://github.com/ryo-ma/github-profile-trophy"> <img src = "https://github-profile-trophy.vercel.app/?username=r-cavalcante" alt = "r-cavalcante" /> </a> </p>
 
-<p align = "left"> < a href = "https://github.com/ryo-ma/github-profile-trophy"> <img src = "https://github-profile-trophy.vercel.app/?username=r-cavalcante" alt = "r-cavalcante" /> </a> </p>
-
-<p align = "left"> <a href="https://twitter.com/@robsoncaav" target="blank"> <img src = "https: //img.shields.io / twitter / follow / @ robsoncaav? logo = twitter & style = for-the-badge "alt =" @ robsoncaav "/> </a> </p>
+<p align = "left"> <a href="https://twitter.com/@robsoncaav" target="blank"> <img src = " https://img.shields.io/twitter/follow/@robsoncaav?logo=twitter&style=for-the-badge "alt =" @ robsoncaav "/> </a> </p>
 
 - 🌱 Atualmente estou aprendendo ** Javascript e flutter **
 
-- 🤝 Estou procurando ajuda com ** desenvolvimento javascript **
+- 🤝 Estou procurando ajuda com ** desenvolvimento de javascript **
 
-- 💬 Pergunte-me sobre ** desenvolvimento javascript **
+- 💬 Pergunte-me sobre ** desenvolvimento de javascript **
 
-- 📫 Como entrar em contato comigo **robsoncavalcante162@gmail.com**
+- 📫 Como entrar em contato comigo ** robsoncavalcante162 @ gmail.com **
 
 - ⚡ Curiosidade ** acho que sou engraçado! **
 
-<h3 align = "left"> Conecte-se comigo: </h3>
+<h3 align = "left"> Conecte-se a mim: </h3>
 <p align = "left">
-<a href="https://twitter.com/@robsoncaav" target="blank"> <img align = "center" src = "https: / /raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg "alt =" @ robsoncaav "height =" 30 "largura =" 40 "/ > </a>
-<a href="https://linkedin.com/in/robson cavalcante" target="blank"> <img align = "center" src = "https: //raw.githubusercontent.com / rahuldkjain / github-profile-readme-generator / neutral-icons / src / images / icons / Social / linked-in-alt.svg "alt =" robson cavalcante "height =" 30 "largura =" 40 "/> </a>
+<a href="https://twitter.com/@robsoncaav" target="blank"> <img align = "center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt = "@ robsoncaav" height = "30" width = "40" /> </a>
+<a href="https://linkedin.com/in/robson cavalcante" target="blank"> <img align = "center" src = "https: //raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg "alt =" robson cavalcante "altura =" 30 "largura = "40" /> </a>
 <a href="https://instagram.com/robson.cavalcantee" target="blank"> <img align = "center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme -generator / neutral-icons / src / images / icons / Social / instagram.svg "alt =" robson.cavalcantee "height =" 30 "width =" 40 "/> </a>
 <a href =" https: / /www.youtube.com/c/robson cavalcante "target =" blank "> <img align =" center "src =" https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral- icons / src / images / icons / Social / youtube.svg "alt =" robson cavalcante "height =" 30 "width =" 40 "/> </a>
 <a href="https://discord.gg/robson cavalcante#7943" target="blank"> <img align = "center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile- readme-generator / neutral-icons / src / images / icons / Social / discord.svg "alt =" robson cavalcante # 7943 "height =" 30 "width =" 40 "/> </a>
@@ -35,7 +33,3 @@
 
 <p> <img align = "center" src = "https://github-readme-streak-stats.herokuapp.com/?user=r-cavalcante&" alt = "r-cavalcante" /> </p>
 
-<!---
-r-cavalcante/r-cavalcante is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
