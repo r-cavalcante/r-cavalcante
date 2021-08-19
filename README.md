@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Everything is interesting, if you look enough!
 
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=r-cavalcante&show_icons=true&theme=default)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r-cavalcante&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)  
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=r-cavalcante&show_icons=true&theme=default) 
 
 
 
