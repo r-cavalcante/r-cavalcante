@@ -17,7 +17,7 @@
 - 🎓 I have a degree in administration with an emphasis on logistics. I am currently studying information systems.
  
 
-# <center> Find me here too 👀
+# <center> Find me here too 👇
 <details align="center">
         <!-- Gmail -->
         <a href="mailto:robsoncavalcante162@gmail.com" target="_blank"><img alt="Gmail"
